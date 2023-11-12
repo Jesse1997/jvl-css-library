@@ -1,0 +1,4 @@
+- Animated with CSS only
+- Mobile device support
+- Keyboard navigation
+- Can work with disabled animations
